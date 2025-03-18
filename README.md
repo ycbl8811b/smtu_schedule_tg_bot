@@ -1,0 +1,1 @@
+# smtu_schedule_tg_bot
