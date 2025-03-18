@@ -11,6 +11,9 @@ __pycache__/
 assets/teachers_imgs/
 assets/tables/
 
+# Redis dump
+*.rdb
+
 # C extensions
 *.so
 
